@@ -1,0 +1,7 @@
+data/raw/ filter=lfs diff=lfs merge=lfs -text
+data/ filter=lfs diff=lfs merge=lfs -text
+data/raw/data_graduates_specialty_125_v20250709.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/data_graduates_study_area_125_v20250709.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/*.csv filter=lfs diff=lfs merge=lfs -text
+data/assets/*.png filter=lfs diff=lfs merge=lfs -text
+output/*.png filter=lfs diff=lfs merge=lfs -text
