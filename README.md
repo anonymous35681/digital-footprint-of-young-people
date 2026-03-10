@@ -12,11 +12,19 @@
 
 ## Результаты визуализации
 
-![График 1](output/graph1.png)
+<div align="center">
 
----
+[![Первый график](./output/graph1.png)](./src/graphs/graph1.py)
 
-![График 2](output/graph2.png)
+***первый график*** ([исходный код](./src/graphs/graph1.py))
+
+<br>
+
+[![Второй график](./output/graph2.png)](./src/graphs/graph2.py)
+
+***второй график*** ([исходный код](./src/graphs/graph2.py))
+
+</div>
 
 ---
 
